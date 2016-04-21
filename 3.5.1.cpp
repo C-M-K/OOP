@@ -2,6 +2,7 @@
 using namespace std; 
 int main(){
 int accumulator =0;
+int bob, dole;
 while (true){
 if (dole==0)break;
 accumulator+= ((dole%2==1)?bob:0);
@@ -12,4 +13,4 @@ cout<<accumulator<<"\n";
 return 0;
 }
 
-//what does this code do? 
+//It runs but there output is iffy 
