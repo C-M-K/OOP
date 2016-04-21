@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
-intm ain(){
+int main(){
 int x = 0;
-while (x<10){
+while (x<10)
 x=x+1;
 cout<<"x is "<<x<<"\n";
 return 0;
