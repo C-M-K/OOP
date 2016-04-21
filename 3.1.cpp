@@ -1,12 +1,12 @@
 #include <iostream>
-uring namespace std;
+using namespace std;
 int main()
 {
 int arg1;
 arg1 = -1;
 int x, y, z;
 char myDouble = '5';
-char arg1 = 'A';
+char arg2 = 'A';
 cout<<arg1<<"\n";
 return 0;
 }
