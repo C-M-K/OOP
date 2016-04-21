@@ -16,3 +16,5 @@ continue;
 }while(1)
 return 0;
 }
+
+//code will compile but output is iffy  
