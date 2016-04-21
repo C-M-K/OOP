@@ -3,9 +3,9 @@ using namespace std;
 int main()
 {
 int arg1;
-are 1 =-1;
+arg1 =-1;
 {
-char arg1 = 'A';
+char arg2 = 'A';
 cout<<arg1<<"\n";
 }
 return 0;
