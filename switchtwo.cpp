@@ -21,7 +21,7 @@ case 7:
 cout<<"n is a prim number.\n";
 break;
 case 6:
-case 8;
+case 8:
 cout <<"n is an even number.\n";
 break;
 default:
